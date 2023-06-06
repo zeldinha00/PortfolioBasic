@@ -19,5 +19,5 @@
 - :lady_beetle: ErroBug
 - :checkered_flag: release
 
-
+- [PROJECT](https://zeldinha00.github.io/PortfolioBasic/) - "Project Completed"
 ![image](https://github.com/zeldinha00/PythonCursoEmVideo/assets/14182590/e75ea0b0-b468-415b-911f-13afe0578ecb)
