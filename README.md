@@ -15,7 +15,7 @@
 
 ## 💡Ícones
 - :package: New Function
-- :up: Update
+-:up: Update 
 - :lady_beetle: ErroBug
 - :checkered_flag: release
 
